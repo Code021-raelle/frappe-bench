@@ -1,0 +1,222 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20231220_223235-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2023-12-20 22:39:26.138111
+Config  : ./erp.gabby.com/private/backups/20231220_223235-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20231220_223235-erp_gabby_com-database.sql.gz         1.2MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20231221_120212-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2023-12-21 12:05:24.121299
+Config  : ./erp.gabby.com/private/backups/20231221_120212-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20231221_120212-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20231227_120056-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2023-12-27 12:01:44.344118
+Config  : ./erp.gabby.com/private/backups/20231227_120056-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20231227_120056-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20231228_120122-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2023-12-28 12:03:48.727712
+Config  : ./erp.gabby.com/private/backups/20231228_120122-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20231228_120122-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20231229_120122-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2023-12-29 12:02:17.108850
+Config  : ./erp.gabby.com/private/backups/20231229_120122-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20231229_120122-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240104_120157-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-04 12:02:48.818023
+Config  : ./erp.gabby.com/private/backups/20240104_120157-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20240104_120157-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240105_180147-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-05 18:04:39.261591
+Config  : ./erp.gabby.com/private/backups/20240105_180147-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20240105_180147-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240106_120105-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-06 12:01:50.793516
+Config  : ./erp.gabby.com/private/backups/20240106_120105-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20240106_120105-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240108_120154-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-08 12:03:36.881926
+Config  : ./erp.gabby.com/private/backups/20240108_120154-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20240108_120154-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240108_180052-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-08 18:01:40.024803
+Config  : ./erp.gabby.com/private/backups/20240108_180052-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20240108_180052-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240109_180108-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-09 18:01:57.739350
+Config  : ./erp.gabby.com/private/backups/20240109_180108-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20240109_180108-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240110_180100-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-10 18:02:11.306094
+Config  : ./erp.gabby.com/private/backups/20240110_180100-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20240110_180100-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240115_120930-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-15 12:11:53.492717
+Config  : ./erp.gabby.com/private/backups/20240115_120930-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20240115_120930-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240119_180216-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-19 18:03:06.177309
+Config  : ./erp.gabby.com/private/backups/20240119_180216-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20240119_180216-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240120_120205-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-20 12:04:11.711279
+Config  : ./erp.gabby.com/private/backups/20240120_120205-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20240120_120205-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240120_180117-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-20 18:02:49.306216
+Config  : ./erp.gabby.com/private/backups/20240120_180117-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20240120_180117-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240122_120802-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-22 12:09:24.615270
+Config  : ./erp.gabby.com/private/backups/20240122_120802-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20240122_120802-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240123_120124-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-23 12:02:18.194167
+Config  : ./erp.gabby.com/private/backups/20240123_120124-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20240123_120124-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240123_180237-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-23 18:03:37.389287
+Config  : ./erp.gabby.com/private/backups/20240123_180237-erp_gabby_com-site_config_backup.json 158.0B
+Database: ./erp.gabby.com/private/backups/20240123_180237-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240124_120233-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-24 12:04:28.075481
+Config  : ./erp.gabby.com/private/backups/20240124_120233-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240124_120233-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240125_120154-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-25 12:05:52.695094
+Config  : ./erp.gabby.com/private/backups/20240125_120154-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240125_120154-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240125_180443-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-25 18:06:56.328728
+Config  : ./erp.gabby.com/private/backups/20240125_180443-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240125_180443-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240126_120108-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-26 12:02:07.959042
+Config  : ./erp.gabby.com/private/backups/20240126_120108-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240126_120108-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240126_180319-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-26 18:06:06.939186
+Config  : ./erp.gabby.com/private/backups/20240126_180319-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240126_180319-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240129_120232-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-29 12:03:37.408378
+Config  : ./erp.gabby.com/private/backups/20240129_120232-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240129_120232-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240129_180217-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-01-29 18:04:40.565490
+Config  : ./erp.gabby.com/private/backups/20240129_180217-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240129_180217-erp_gabby_com-database.sql.gz         1.3MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240201_120413-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-02-01 12:06:09.034696
+Config  : ./erp.gabby.com/private/backups/20240201_120413-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240201_120413-erp_gabby_com-database.sql.gz         1.4MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240203_120212-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-02-03 12:05:22.430561
+Config  : ./erp.gabby.com/private/backups/20240203_120212-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240203_120212-erp_gabby_com-database.sql.gz         1.4MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240205_120356-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-02-05 12:05:11.635009
+Config  : ./erp.gabby.com/private/backups/20240205_120356-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240205_120356-erp_gabby_com-database.sql.gz         1.4MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240205_180025-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-02-05 18:01:14.198751
+Config  : ./erp.gabby.com/private/backups/20240205_180025-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240205_180025-erp_gabby_com-database.sql.gz         1.4MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240207_120102-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-02-07 12:01:46.550808
+Config  : ./erp.gabby.com/private/backups/20240207_120102-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240207_120102-erp_gabby_com-database.sql.gz         1.4MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240207_180348-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-02-07 18:04:58.966720
+Config  : ./erp.gabby.com/private/backups/20240207_180348-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240207_180348-erp_gabby_com-database.sql.gz         1.4MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240212_120212-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-02-12 12:03:12.237163
+Config  : ./erp.gabby.com/private/backups/20240212_120212-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240212_120212-erp_gabby_com-database.sql.gz         1.4MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240213_120323-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-02-13 12:04:34.215554
+Config  : ./erp.gabby.com/private/backups/20240213_120323-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240213_120323-erp_gabby_com-database.sql.gz         1.4MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240213_183500-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-02-13 18:54:24.701175
+Config  : ./erp.gabby.com/private/backups/20240213_183500-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240213_183500-erp_gabby_com-database.sql.gz         1.4MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240221_120154-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-02-21 12:03:23.678431
+Config  : ./erp.gabby.com/private/backups/20240221_120154-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240221_120154-erp_gabby_com-database.sql.gz         1.4MiB
+Backup for Site erp.gabby.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _ddb4b707dec7a040 -p********** _ddb4b707dec7a040 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./erp.gabby.com/private/backups/20240222_121135-erp_gabby_com-database.sql.gz
+
+Backup Summary for erp.gabby.com at 2024-02-22 12:25:36.899626
+Config  : ./erp.gabby.com/private/backups/20240222_121135-erp_gabby_com-site_config_backup.json 181.0B
+Database: ./erp.gabby.com/private/backups/20240222_121135-erp_gabby_com-database.sql.gz         1.4MiB
+Backup for Site erp.gabby.com has been successfully completed
